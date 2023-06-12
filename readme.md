@@ -10,7 +10,7 @@ The technologies used to build the extension are HTML, CSS, JavaScript, React JS
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage/Demo](#usage)
-- [License](#license)
+- [License/Contribution](#license)
 - [Contact Me](#contact-me)
 
 ## Features
@@ -52,7 +52,7 @@ This extension will soon be avialable on chrome web store.
 
 
 ## License
-This extension is proprietary and cannot be used without permission from the developer.
+This extension is proprietary and requires explicit permission from the developer for its usage. However, we are actively working on developing the application and genuinely value and appreciate any contributions, suggestions, or issue reports that you may have.
 
 ## Contact Me
 
